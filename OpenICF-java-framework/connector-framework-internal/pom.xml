@@ -64,9 +64,8 @@
 
         <!--Optional dependencies-->
         <dependency>
-            <groupId>org.apache.servicemix.bundles</groupId>
-            <artifactId>org.apache.servicemix.bundles.rhino</artifactId>
-            <version>1.7.15_1</version>
+            <groupId>org.mozilla</groupId>
+            <artifactId>rhino-engine</artifactId>
             <optional>true</optional>
         </dependency>
 
